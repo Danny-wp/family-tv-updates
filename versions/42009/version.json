@@ -1,0 +1,11 @@
+{
+  "application_id": "tv.family.live",
+  "version_code": 42009,
+  "version_name": "0.6.9",
+  "min_sdk": 21,
+  "distribution": "licensed",
+  "apk_name": "FamilyTV-0.6.9.apk",
+  "apk_url": "FamilyTV-0.6.9.apk",
+  "sha256": "e18da5c55be1dad53adb1b87afc32a6e91162db4ff69bf64bcfc943c5d3b4827",
+  "notes": "家看电视 0.6.9 授权版更新"
+}
