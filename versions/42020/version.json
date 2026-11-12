@@ -1,0 +1,11 @@
+{
+  "application_id": "tv.family.live",
+  "version_code": 42020,
+  "version_name": "0.6.20",
+  "min_sdk": 21,
+  "distribution": "licensed",
+  "apk_name": "FamilyTV-0.6.20.apk",
+  "apk_url": "FamilyTV-0.6.20.apk",
+  "sha256": "a495d2d25c7525ac8bbeb3ac815d3ac25f109c17b63611176a802c925a8b08d0",
+  "notes": "快速检测：整条35秒预算、首轮起播6秒/重试3秒、连续播放8秒通过、异常最多两轮；附完整交互与耗时说明"
+}

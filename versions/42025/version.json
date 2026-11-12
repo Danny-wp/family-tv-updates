@@ -1,0 +1,11 @@
+{
+  "application_id": "tv.family.live",
+  "version_code": 42025,
+  "version_name": "0.6.25",
+  "min_sdk": 21,
+  "distribution": "licensed",
+  "apk_name": "FamilyTV-0.6.25.apk",
+  "apk_url": "FamilyTV-0.6.25.apk",
+  "sha256": "91078aa674fe73f12a207a9a35d5890656b25b56bfae635786128b6f527da5b4",
+  "notes": "手动排除后自动提交线路复核；升级自动补交旧版本机排除，维护页批准后才全局生效"
+}
